@@ -1,1 +1,1 @@
-# jx-45
+# JX-45 Community
